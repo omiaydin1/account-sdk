@@ -218,3 +218,9 @@ yarn add @base-org/account
   1. Fork this repo and clone it
   1. From the root dir run `yarn install`
   1. From the root dir run `yarn dev`
+ 
+  2. ## Base Network Note
+
+This repository can be experimented with on Base mainnet
+for educational and testing purposes.
+
